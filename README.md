@@ -1,49 +1,112 @@
-<br clear="both">
+<div align="center">
 
-<h2 data-importer="text" align="left">My name is Hemanth and I'm from davangere</h2>
+# 👋 Hi, I'm Hemanth Kumar
 
-###
+### 🚀 Java Full Stack Developer
 
-<br clear="both">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+Enthusiast;Learning+Advanced+Java;Building+Real+World+Projects" />
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=79&section=header&reversal=true&text=Java%20Full%20Stack%20Developer&fontSize=38&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=183&descAlign=35&descAlignY=50&textBg=false&color=random"  />
 </div>
 
-###
+---
 
-<h2 data-importer="text" align="left">About me</h2>
+## 🙋‍♂️ About Me
 
-###
+🌍 From **Davangere, Karnataka, India**
 
-<br clear="both">
+📚 Currently learning **Advanced Java Concepts**
 
-<p data-importer="text" align="left">📚 I'm currently learning Advance java concepts...<br>🎯 Goal: Full java developer...<br>🎲 Curently working as intern in X works Software solutions</p>
+💻 Passionate about **Java Full Stack Development**
 
-###
+🎯 Goal: Become a skilled **Java Full Stack Developer**
 
-<h2 data-importer="text" align="left">I code with</h2>
+🏢 Currently working as an **Intern at X-workz Software Solutions**
 
-###
+⚡ Always eager to learn new technologies and build innovative projects
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,mongodb,python,vscode,git,github" />
+
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+☕ Advanced Java
+🌿 Spring Framework
+🚀 Spring Boot
+🗄️ JDBC & MySQL
+🌐 HTML, CSS, JavaScript
+📦 REST APIs
+```
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+🏅 Java Developer
+
+🏅 Full Stack Development Learner
+
+🏅 Problem Solving Enthusiast
+
+🏅 Open Source Contributor (Future Goal)
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+*"Code. Learn. Build. Repeat."*
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
